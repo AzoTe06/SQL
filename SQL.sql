@@ -8,7 +8,7 @@ CREATE TABLE IF NOT EXISTS `items` (
 ) ENGINE=InnoDB AUTO_INCREMENT=12 DEFAULT CHARSET=utf8;
 
 INSERT INTO `items` (`id`, `libelle`, `isIllegal`, `canUse`) VALUES
-	(1, 'Eau', 0, 1),
-	(2, 'Sandwich', 0, 2),
-	(3, 'Bouteille d alcool', 0, 3),
-	(4, 'Cigarette', 0, 4);
+(30, 'Eau', 0, 1),
+(6, 'Sandwich', 0, 2),
+(97, 'Bouteille d alcool', 0, 3),
+(95, 'Cigarette', 0, 4);
